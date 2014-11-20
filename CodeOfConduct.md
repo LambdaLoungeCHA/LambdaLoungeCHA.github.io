@@ -2,6 +2,8 @@ CODE OF CONDUCT
 
 Lambda Lounge Chattanooga is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. 
 
+Contact <a href="mailto://lamdbalounge.cha@gmail.com">lamdbalounge.cha@gmail.com</a>, or contact organizers <a href="http://noel.weichbrodt.org/about">Noel Weichbrodt</a> or Lang Martin via whaterver method you are most comfortable with, if you need help.
+
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Lambda Lounge Chattanooga forums or events. Sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled. 
 
 Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, mailing lists, IRC chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
